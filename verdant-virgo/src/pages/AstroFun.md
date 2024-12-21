@@ -1,4 +1,4 @@
-## Testing AstroFun
+# Testing AstroFun
 
 Will this work ?
 <h2 class="text-7xl text-center text-white bg-purple-800">Who knows</h2>
